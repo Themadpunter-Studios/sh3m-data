@@ -1,5 +1,6 @@
 [
   {"costume":"2", "cost":"150", "type":"skin", "unlock": "6", "name": "Neon Black", "other": ""},
-  {"costume":"3", "cost":"100", "type":"skin", "unlock": "7", "name": "Hexagon", "other": ""}
+  {"costume":"3", "cost":"100", "type":"skin", "unlock": "7", "name": "Hexagon", "other": ""},
+  {"costume": "1", "cost": "150", "type": "skin", "unlock": "4", "name": "Star Skin", "other": ""}
 ]
   
